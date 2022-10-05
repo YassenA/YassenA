@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yassen
+👋 Hi, I’m Yassen
 
 <!-- 👯 I’m looking to collaborate on <br>🤝 I’m looking for help with<br> -->
 
