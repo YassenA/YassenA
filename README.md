@@ -1,6 +1,6 @@
 ## Hello, I’m Yassen 👋 
 ### About Me:
-Current Gap Year student learning C++ and currently working on an image processing program.
+Gap Year student learning C++ and currently working on an image processing program.
 
 #### 🌐Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yassen-ahmed-19a8a91bb) 
