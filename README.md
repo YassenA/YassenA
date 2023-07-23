@@ -1,4 +1,4 @@
-## Hello, I’m Yassen 👋 
+### Hello, I’m Yassen 👋 
 ### About Me:
 Gap Year student learning C and currently working on an image processing program.
 
