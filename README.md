@@ -1,6 +1,6 @@
 ### Hello, I’m Yassen 👋 
 ### About Me:
-Computer Science And Mathematics student at Loughbrough University 
+Computer Science And Mathematics student at Loughborough University 
 
 #### 🌐Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yassen-ahmed-19a8a91bb) 
